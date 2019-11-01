@@ -1,0 +1,1 @@
+# yahoojapan-autologin-forwoocommerce
